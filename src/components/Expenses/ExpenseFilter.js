@@ -21,3 +21,9 @@ const ExpenseFilter = (props) => {
 };
 
 export default ExpenseFilter;
+
+// filter arrays with the filer method
+
+// dont go too complicated - dont change expenses array - derive a
+// new array based on the expenses array which is a subset of the array
+// for the chosen filter
